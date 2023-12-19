@@ -1,0 +1,48 @@
+Class CaseAnnotatedDocumented has JavaDoc comment: 
+/**
+ * This is Case 2 class Documentation.
+ *
+ * @ClassDocumentation "Case 2 - Annotation and Documentation"
+ */
+
+
+Method case2method1 in class CaseAnnotatedDocumented has JavaDoc comment: 
+/**
+     * This is Case 2 method 1 Documentation.
+     *
+     * @MethodDocumentation "case 2 - Annotation and Documentation"
+     */
+
+
+Method case2method2 in class CaseAnnotatedDocumented has JavaDoc comment: 
+/**
+     * This is Case 2 method 2 Documentation.
+     *
+     * @MethodDocumentation "case 2 - Annotation and Documentation"
+     */
+
+
+Class CaseDocumented has JavaDoc comment: 
+/**
+ * This is case 3 Documentation.
+ */
+
+
+Method case3method1 in class CaseDocumented has JavaDoc comment: 
+/**
+     * This is method 1 documentation in Documented class.
+     */
+
+
+Method case3method3 in class CaseDocumented has JavaDoc comment: 
+/**
+     * This is method 3 documentation in Documented class.
+     */
+
+
+Method case3method4 in class CaseDocumented has JavaDoc comment: 
+/**
+     * This is method 4 documentation in Documented class.
+     */
+
+
